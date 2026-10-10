@@ -1,0 +1,2 @@
+# NexusDictation agent notes
+Preserve standalone STT ownership. Parakeet Redux uses Photon natively; do not claim direct WebGPU support until a real runtime is validated. Keep the ESM facade stable, use finalized transcripts for actions, and never commit model weights, tokens, or captured audio. Test with node --test; validate actual microphone and Photon inference on target hardware before advertising release readiness.
